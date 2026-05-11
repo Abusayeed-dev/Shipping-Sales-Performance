@@ -10,7 +10,7 @@ A four-view sales intelligence dashboard built in **Power BI**, simulating NAVTO
 
 ## Live dashboard
 
-**[Open the interactive dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMjkyNTRkMjgtZjBiOC00Y2EyLWI4OTQtZDEwOWE0MmYwYmQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=01d8daf0b875d539c486)**
+**[Open the interactive dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNGMxNzUxMTktOGVhOC00NTUzLWFhYzItZThjZGViZDAzNzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=01d8daf0b875d539c486)**
 
 Hosted via Power BI Service.
 
