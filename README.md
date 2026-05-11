@@ -85,4 +85,4 @@ NAVTOR® and its product names (NavStation, NavFleet, PAYS, NavBox, Digital Logb
 
 ## Author
 
-**Abu Sayeed Mozomder** · Built May 2026 · A Portfolio for Sales Coordinatorrole.
+**Abu Sayeed Mozomder** · Built May 2026 · A Portfolio for Sales Coordinator role.
