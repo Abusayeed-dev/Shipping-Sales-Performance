@@ -1,4 +1,4 @@
-# Shipping Sales Performance Dashboard
+# NAVTOR Sales Performance
 
 A four-view sales intelligence dashboard built in **Power BI**, simulating NAVTOR's business model on **synthetic data**. Built as a portfolio piece to demonstrate the kind of analytics a Sales Coordinator would own day-to-day.
 
@@ -6,11 +6,11 @@ A four-view sales intelligence dashboard built in **Power BI**, simulating NAVTO
 
 ## Headline finding
 
-**~$560K–$900K of upsell opportunity** sits in the existing customer base. 112 vessels currently use NavStation but have not been moved up to NavFleet — more than a quarter of total annual revenue, available without a single new logo acquisition.
+**~$1.24M of upsell opportunity** sits in the existing customer base. 112 vessels currently use NavStation but have not been moved up to NavFleet — more than a quarter of total annual revenue, available without a single new logo acquisition.
 
 ## Live dashboard
 
-**[Open the interactive dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNGMxNzUxMTktOGVhOC00NTUzLWFhYzItZThjZGViZDAzNzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=01d8daf0b875d539c486)**
+**[Open the interactive dashboard →](https://app.powerbi.com/view?r=eyJrIjoiYWE4YWFkMGMtZjkzYy00YzUwLThmZTUtMDAyN2Y4YmZjMGFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=01d8daf0b875d539c486)**
 
 Hosted via Power BI Service.
 
