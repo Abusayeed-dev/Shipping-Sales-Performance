@@ -42,8 +42,8 @@ Actual revenue vs plan by product, region, and month.
 
 Renewal calendar, at-risk ACV, churn flagging.
 
-- **$25.4K of margin-at-risk ACV** — Flat-Fee contracts with thin margin renewing within the year. Standard practice is to renegotiate up before auto-renewal or migrate to PAYS where revenue scales with usage.
-- **Renewal rate at 2.2% is a calculation artifact** — most contracts haven't reached their renewal date yet. The actionable number is **"Due in 30 Days" — 3 contracts** that drive next week's customer-success conversations.
+- **$13.50K of margin-at-risk ACV** — Flat-Fee contracts with thin margin renewing within 6 months. Standard practice is to renegotiate up before auto-renewal or migrate to PAYS where revenue scales with usage.
+- **Renewal rate at 92.3% is ver healthy** . The actionable number is **"Due in 30 Days" — 3 contracts** that drive next week's customer-success conversations.
 
 ### 4 · Upsell Gaps
 ![View 4 – Upsell Gaps](<images/view4_Upsell Gaps.png>)
@@ -51,7 +51,7 @@ Renewal calendar, at-risk ACV, churn flagging.
 NavFleet whitespace analysis by distributor and region.
 
 - **112 vessels currently use NavStation but not NavFleet** — the central finding of the dashboard.
-- **At a typical NavFleet ACV of $5,000–$8,000 per vessel, that's $560K–$900K of addressable upsell** sitting in the existing customer base.
+- **At a typical NavFleet ACV of $5,000–$8,000 per vessel, that's $1.24M of addressable upsell** sitting in the existing customer base.
 - **Penetration matrix** surfaces where the gap is concentrated by region.
 - **Distributor performance table** identifies which distributors are over-delivering and which need support — a weekly briefing report for regional AEs.
 
